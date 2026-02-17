@@ -40,4 +40,4 @@ Passionné par le développement logiciel et l'intelligence artificielle, je con
 
 ### 📫 Me contacter
 * [Mon LinkedIn](https://www.linkedin.com/in/yassine-lamairi/)
-* [Mon Email](lamairiyassin9@gmail.com)
+* [Mon Email](mailto:lamairiyassin9@gmail.com)
